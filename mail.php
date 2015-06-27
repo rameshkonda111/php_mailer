@@ -1,6 +1,6 @@
 <?php
 /*
-Author: Ramesh Konda
+Author: Ramesh K
 Date: 14-1-2015
 */
 require_once('class.phpmailer.php');
